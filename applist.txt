@@ -1,0 +1,3 @@
+lnks/explorer.lnk||icons/bigsur_finder.png
+lnks/cmd.lnk||icons/terminal.png
+lnks/Taskmgr.lnk||icons/taskmgr.png
