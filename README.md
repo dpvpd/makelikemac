@@ -1,6 +1,8 @@
 # makelikemac
 윈도우에서 맥의 Dock을 사용할 수 있게 해줍니다!<p></p>
-To Use Dock from Mac on Windows!<p></p>
+To Use Dock from Mac on Windows!<p></p><p></p><p></p>
+
+(last update : 2022.dec.1.00:27kst)<p></p>
 
 ***
 
@@ -16,4 +18,11 @@ If you want to run this, you require follow files :<p></p>
 - lnks/explorer.lnk
 - lnks/Taskmgr.lnk
 <p></p>
-(2022.dec.1.00:22kst)
+
+***
+
+Todo:
+- auto-positioning
+- auto hide
+- multi screen support
+- comfortable shortcut add/remove
